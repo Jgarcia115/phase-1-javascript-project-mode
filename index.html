@@ -6,30 +6,30 @@
         <Link rel="stylesheet" href="index.css">
     </head>
     <body>
-        <div>
+        <div id="drink-header">
             <img
                 src="https://bartaco.com/media/bartaco_230_v2-scaled.jpg"
                 alt="cocktail-header"
-                width="500"
-                height="400"
+                id="picture"
             />
         </div>
 
 
-        <div>
-            <p>
-                What are you craving? <label for="alcohol">Choose Alcohol!</label>
-                <select name="alcohol" id="alcohols">
-                    <option value="Vodka">Vodka</option>
-                    <option value="Gin">Gin</option>
-                    <option value="Rum">Rum</option>
-                    <option value="Tequila">Tequila</option>
-                    <option value="Whiskey">Whiskey</option>
-                </select>
+        <div id="dropdown">
+            <p id="title">
+                What Are You Craving?
             </p>
+            <label id="choose" for="alcohol">Choose Alcohol: </label>
+            <select name="alcohol" id="alcohols">
+                <option value="Vodka">Vodka</option>
+                <option value="Gin">Gin</option>
+                <option value="Rum">Rum</option>
+                <option value="Tequila">Tequila</option>
+                <option value="Whiskey">Whiskey</option>
+            </select>
         </div>
 
-        <div>
+        <div id="list">
             <ol id="drink-list">
 
                 

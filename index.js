@@ -15,7 +15,6 @@ function grabList(alcohol) {
         })
 }
 
-
 // Event Listeners
 document.addEventListener('DOMContentLoaded', () => {
     let list = document.querySelector('#alcohols')
