@@ -10,10 +10,14 @@ By using [this api](https://www.thecocktaildb.com/api.php?ref=apilist.fun) to ac
 
 ![Example Use](https://media.giphy.com/media/XkRtObxi44U30JpYJa/giphy.gif)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Support
 
-Please make sure to update tests as appropriate.
+For questions or issues my email is : jon.garcia.015@gmail.com
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Roadmap
+
+As an MVP, the possibility of incorporating more drinks and cocktails is definitly next in line. Having star rating review in addition to the comment sections could add a lot more clear distinction between drinks.
+
+## Acknowledgment
+
+Thank you [The CocktailDB](thecocktaildb.com) for your api link integration for making it possible to do this!
