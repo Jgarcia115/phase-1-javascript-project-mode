@@ -8,7 +8,7 @@ By using [this api](https://www.thecocktaildb.com/api.php?ref=apilist.fun) to ac
 
 ## Usage
 
-![Alt Text](https://media.giphy.com/media/XkRtObxi44U30JpYJa/giphy.gif)
+![Example Use](https://media.giphy.com/media/XkRtObxi44U30JpYJa/giphy.gif)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
