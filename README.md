@@ -8,7 +8,7 @@ By using [this api](https://www.thecocktaildb.com/api.php?ref=apilist.fun) to ac
 
 ## Usage
 
-<iframe src="https://giphy.com/embed/XkRtObxi44U30JpYJa" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XkRtObxi44U30JpYJa">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/XkRtObxi44U30JpYJa/giphy.gif)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
