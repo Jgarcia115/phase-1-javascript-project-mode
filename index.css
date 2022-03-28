@@ -17,6 +17,30 @@ body {
     font-size: 40px;
 }
 
+#subtitle {
+    font-style: italic;
+}
+
 #choose {
     font-size: 30px;
+}
+
+#drink {
+    text-align: center;
+    border: black solid 1px;
+    padding: 1rem;
+    width: 15rem;
+    height: 25rem;
+    display: inline-grid;
+    margin: 1rem 2rem;
+}
+
+#pic {
+    justify-self: center;
+    height: 12rem;
+    width: auto;
+}
+
+#list {
+    background-color: gray;
 }
